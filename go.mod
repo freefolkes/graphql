@@ -1,4 +1,4 @@
-module graphql
+module github.com/freefolkes/graphql
 
 go 1.14
 
